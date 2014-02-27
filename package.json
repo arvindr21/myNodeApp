@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arvindr21/myNodeApp/issues"
   },
-  "homepage": "https://github.com/arvindr21/myNodeApp"
+  "homepage": "https://github.com/arvindr21/myNodeApp",
+  "devDependencies": {
+    "express": "^3.4.8"
+  }
 }
